@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+    xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" 
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+
+    <channel>
+        <title>The One Shot Podcast</title>
+        <atom:link href="http://oneshotpodcast.com/feed/" rel="self" type="application/rss+xml" />
+        <link>http://oneshotpodcast.com</link>
+        <description>Giving every RPG a shot, one adventure at a time.</description>
+        <lastBuildDate>Thu, 25 Oct 2018 19:32:10 +0000</lastBuildDate>
+        <language>en-US</language>
+        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
+        <generator>https://wordpress.org/?v=4.9.8</generator>
+        <itunes:summary>Giving every RPG a shot, one adventure at a time.</itunes:summary>
+        <itunes:author>The One Shot Podcast</itunes:author>
+        <itunes:image href="http://oneshotpodcast.com/wp-content/plugins/powerpress/itunes_default.jpg" />
+        <itunes:subtitle>Giving every RPG a shot, one adventure at a time.</itunes:subtitle>
+        <image>
+            <title>The One Shot Podcast</title>
+            <url>http://oneshotpodcast.com/wp-content/plugins/powerpress/rss_default.jpg</url>
+            <link>http://oneshotpodcast.com</link>
+        </image>
+        <item>
+            <title>70. Andrea Morales Coto</title>
+            <link>http://oneshotpodcast.com/backstory/70-andrea-morales-coto/</link>
+            <comments>http://oneshotpodcast.com/backstory/70-andrea-morales-coto/#respond</comments>
+            <pubDate>Thu, 25 Oct 2018 19:32:10 +0000</pubDate>
+            <dc:creator><![CDATA[Alex Roberts]]></dc:creator>
+            <category><![CDATA[Backstory]]></category>
+            <category><![CDATA[Podcasts]]></category>
+            <category><![CDATA[andrea morales coto]]></category>
+            <category><![CDATA[cryptoeconomics]]></category>
+            <category><![CDATA[Design]]></category>
+            <category><![CDATA[Game Design]]></category>
+            <category><![CDATA[golden cobra]]></category>
+            <category><![CDATA[Larp]]></category>
+
+            <guid isPermaLink="false">http://oneshotpodcast.com/?p=3836</guid>
+            <description><![CDATA[<p>Design strategist Andrea Morales Coto is bringing the magic of live-action game design to new avenues, from distribution methods to cryptoeconomic systems and beyond. Learn along with Alex! Andrea&#8217;s Website Andrea on Twitter &#8220;I Owe Us&#8221; cryptoeconomic prototype &#8220;Following the Green Light: Designing Inclusion in Game Distribution The Golden Cobra Game Design Challenge</p><p>The post <a rel="nofollow" href="http://oneshotpodcast.com/backstory/70-andrea-morales-coto/">70. Andrea Morales Coto</a> appeared first on <a rel="nofollow" href="http://oneshotpodcast.com">The One Shot Podcast</a>.</p>]]></description>
+            <wfw:commentRss>http://oneshotpodcast.com/backstory/70-andrea-morales-coto/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <enclosure url="https://media.blubrry.com/one_shot_collection/audio.simplecast.com/f933c6df.mp3" length="59704000" type="audio/mpeg" />
+            <itunes:subtitle>Design strategist Andrea Morales Coto is bringing the magic of live-action game design to new avenues, from distribution methods to cryptoeconomic systems and beyond. Learn along with Alex! Andrea’s Website Andrea on Twitter “I Owe Us” cryptoeconomic p...</itunes:subtitle>
+            <itunes:summary>Design strategist Andrea Morales Coto is bringing the magic of live-action game design to new avenues, from distribution methods to cryptoeconomic systems and beyond. Learn along with Alex! Andrea’s Website Andrea on Twitter “I Owe Us” cryptoeconomic prototype “Following the Green Light: Designing Inclusion in Game Distribution The Golden Cobra Game Design Challenge</itunes:summary>
+            <itunes:author>The One Shot Podcast</itunes:author>
+            <itunes:duration>1:02:10</itunes:duration>
+        </item>
+        <item>
+            <title>Character Evolution Cast E06 &#8211; Session Zero with Amelia and Ryan</title>
+            <link>http://oneshotpodcast.com/character-creation-cast/character-evolution-cast-e06-session-zero-with-amelia-and-ryan/</link>
+            <comments>http://oneshotpodcast.com/character-creation-cast/character-evolution-cast-e06-session-zero-with-amelia-and-ryan/#respond</comments>
+            <pubDate>Mon, 22 Oct 2018 10:00:09 +0000</pubDate>
+            <dc:creator><![CDATA[Character Creation Cast]]></dc:creator>
+            <category><![CDATA[Character Creation Cast]]></category>
+            <category><![CDATA[Podcasts]]></category>
+
+            <guid isPermaLink="false">http://oneshotpodcast.com/?p=3834</guid>
+            <description><![CDATA[<p>On this episode of Character Evolution Cast, we sit down with… just ourselves? Amelia and Ryan discuss what makes a good session zero and what sorts of things you need to keep in mind as both a player and a GM to help enhance the experience! We even have our own Session Zero worksheet in...</p>
+<p>The post <a rel="nofollow" href="http://oneshotpodcast.com/character-creation-cast/character-evolution-cast-e06-session-zero-with-amelia-and-ryan/">Character Evolution Cast E06 &#8211; Session Zero with Amelia and Ryan</a> appeared first on <a rel="nofollow" href="http://oneshotpodcast.com">The One Shot Podcast</a>.</p>
+]]>            </description>
+            <wfw:commentRss>http://oneshotpodcast.com/character-creation-cast/character-evolution-cast-e06-session-zero-with-amelia-and-ryan/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <enclosure url="https://media.blubrry.com/one_shot_collection/audio.simplecast.com/649fb417.mp3" length="96770469" type="audio/mpeg" />
+            <itunes:subtitle>On this episode of Character Evolution Cast, we sit down with… just ourselves? Amelia and Ryan discuss what makes a good session zero and what sorts of things you need to keep in mind as both a player and a GM to help enhance the experience!</itunes:subtitle>
+            <itunes:summary>On this episode of Character Evolution Cast, we sit down with… just ourselves? Amelia and Ryan discuss what makes a good session zero and what sorts of things you need to keep in mind as both a player and a GM to help enhance the experience! We even have our own Session Zero worksheet in...</itunes:summary>
+            <itunes:author>The One Shot Podcast</itunes:author>
+            <itunes:duration>1:40:41</itunes:duration>
+        </item>
+        <item>
+            <title>276. Kids on Bikes Part 4</title>
+            <link>http://oneshotpodcast.com/one-shot/276-kids-on-bikes-part-4/</link>
+            <comments>http://oneshotpodcast.com/one-shot/276-kids-on-bikes-part-4/#respond</comments>
+            <pubDate>Mon, 22 Oct 2018 08:12:39 +0000</pubDate>
+            <dc:creator><![CDATA[James D'Amato]]></dc:creator>
+            <category><![CDATA[One Shot]]></category>
+            <category><![CDATA[Podcasts]]></category>
+            <category><![CDATA[James D'Amato]]></category>
+            <category><![CDATA[Kids on Bikes]]></category>
+            <category><![CDATA[Liz Anderson]]></category>
+            <category><![CDATA[Patrick Rothfuss]]></category>
+            <category><![CDATA[Pranks Paul]]></category>
+            <category><![CDATA[Stephen Kropa]]></category>
+
+            <guid isPermaLink="false">http://oneshotpodcast.com/?p=3831</guid>
+            <description><![CDATA[<p>After some spooky revelations in the witch house. Mr. Bailey and the kids decide to take a coco break to sort things out. Things get more fraught than they hope. KIDS ON BIKES Buy it! Site BUY MY BOOK! Amazon Pre-Order Barnes and Noble Pre-Order TWITCH SCHEDULE Youtube Archive TAKE ACTION Register to Vote Find your...</p>
+<p>The post <a rel="nofollow" href="http://oneshotpodcast.com/one-shot/276-kids-on-bikes-part-4/">276. Kids on Bikes Part 4</a> appeared first on <a rel="nofollow" href="http://oneshotpodcast.com">The One Shot Podcast</a>.</p>
+]]>            </description>
+            <wfw:commentRss>http://oneshotpodcast.com/one-shot/276-kids-on-bikes-part-4/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <enclosure url="https://media.blubrry.com/one_shot_collection/audio.simplecast.com/38b29081.mp3" length="43622550" type="audio/mpeg" />
+            <itunes:subtitle>After some spooky revelations in the witch house. Mr. Bailey and the kids decide to take a coco break to sort things out. Things get more fraught than they hope. KIDS ON BIKES Buy it! Site BUY MY BOOK! Amazon Pre-Order Barnes and Noble Pre-Order TWITCH...</itunes:subtitle>
+            <itunes:summary>After some spooky revelations in the witch house. Mr. Bailey and the kids decide to take a coco break to sort things out. Things get more fraught than they hope. KIDS ON BIKES Buy it! Site BUY MY BOOK! Amazon Pre-Order Barnes and Noble Pre-Order TWITCH SCHEDULE Youtube Archive TAKE ACTION Register to Vote Find your...</itunes:summary>
+            <itunes:author>The One Shot Podcast</itunes:author>
+            <itunes:duration>1:00:30</itunes:duration>
+        </item>
+        <item>
+            <title>S01E27 &#8211; OOC Q&#038;A</title>
+            <link>http://oneshotpodcast.com/the-broadswords/s01e27-ooc-qa/</link>
+            <comments>http://oneshotpodcast.com/the-broadswords/s01e27-ooc-qa/#respond</comments>
+            <pubDate>Sat, 20 Oct 2018 17:02:36 +0000</pubDate>
+            <dc:creator><![CDATA[The Broadswords]]></dc:creator>
+            <category><![CDATA[The Broadswords]]></category>
+            <category><![CDATA[Bianca Zelda]]></category>
+            <category><![CDATA[BroadSquad]]></category>
+            <category><![CDATA[DnD]]></category>
+            <category><![CDATA[DnD5e]]></category>
+            <category><![CDATA[Dungeons and Dragons]]></category>
+            <category><![CDATA[Dungeons and Dragons 5th edition]]></category>
+            <category><![CDATA[Kristin Flemons]]></category>
+            <category><![CDATA[One Shot]]></category>
+            <category><![CDATA[RPG]]></category>
+            <category><![CDATA[Tracy Gibbons]]></category>
+            <category><![CDATA[ttrpg]]></category>
+            <category><![CDATA[Victoria Rogers]]></category>
+
+            <guid isPermaLink="false">http://oneshotpodcast.com/?p=3827</guid>
+            <description><![CDATA[<p>Victoria is sick and was unable to get the finale edited, so here is an older Q&#38;A episode the broads recorded for Patreon. The broads answer questions ranging from what Yllairies carries in her trunks to how they found each other. Never fear, the finale will be up on Saturday, November 3rd.</p>
+<p>The post <a rel="nofollow" href="http://oneshotpodcast.com/the-broadswords/s01e27-ooc-qa/">S01E27 &#8211; OOC Q&amp;A</a> appeared first on <a rel="nofollow" href="http://oneshotpodcast.com">The One Shot Podcast</a>.</p>
+]]>            </description>
+            <wfw:commentRss>http://oneshotpodcast.com/the-broadswords/s01e27-ooc-qa/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <enclosure url="https://media.blubrry.com/one_shot_collection/audio.simplecast.com/b5a9314e.mp3" length="68913379" type="audio/mpeg" />
+            <itunes:subtitle>Victoria is sick and was unable to get the finale edited, so here is an older Q&amp;A episode the broads recorded for Patreon. The broads answer questions ranging from what Yllairies carries in her trunks to how they found each other. Never fear,</itunes:subtitle>
+            <itunes:summary>Victoria is sick and was unable to get the finale edited, so here is an older Q&amp;A episode the broads recorded for Patreon. The broads answer questions ranging from what Yllairies carries in her trunks to how they found each other. Never fear, the finale will be up on Saturday, November 3rd.</itunes:summary>
+            <itunes:author>The One Shot Podcast</itunes:author>
+            <itunes:duration>1:11:40</itunes:duration>
+        </item>
+        <item>
+            <title>63. Mission: Accomplished! with Jeff Stormer</title>
+            <link>http://oneshotpodcast.com/modifier/63-mission-accomplished-with-jeff-stormer/</link>
+            <comments>http://oneshotpodcast.com/modifier/63-mission-accomplished-with-jeff-stormer/#respond</comments>
+            <pubDate>Thu, 18 Oct 2018 12:00:07 +0000</pubDate>
+            <dc:creator><![CDATA[Meghan Dornbrock]]></dc:creator>
+            <category><![CDATA[Modifier]]></category>
+            <category><![CDATA[Podcasts]]></category>
+            <category><![CDATA[Jeff Stormer]]></category>
+            <category><![CDATA[Meghan Dornbrock]]></category>
+            <category><![CDATA[Mission: Accomplished!]]></category>
+
+            <guid isPermaLink="false">http://oneshotpodcast.com/?p=3814</guid>
+            <description><![CDATA[<p>Jeff is back to talk about his own game this time, Mission: Accomplished! It&#8217;s about super spies, office meetings, and really coming face to face with the arcane horror that is your day job. We talk about comedy in games, designing around secret information, and the impact of having winners and losers in an RPG....</p>
+<p>The post <a rel="nofollow" href="http://oneshotpodcast.com/modifier/63-mission-accomplished-with-jeff-stormer/">63. Mission: Accomplished! with Jeff Stormer</a> appeared first on <a rel="nofollow" href="http://oneshotpodcast.com">The One Shot Podcast</a>.</p>
+]]>            </description>
+            <wfw:commentRss>http://oneshotpodcast.com/modifier/63-mission-accomplished-with-jeff-stormer/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <enclosure url="https://media.blubrry.com/one_shot_collection/audio.simplecast.com/9524415c.mp3" length="25250492" type="audio/mpeg" />
+            <itunes:subtitle>Jeff is back to talk about his own game this time, Mission: Accomplished! It’s about super spies, office meetings, and really coming face to face with the arcane horror that is your day job. We talk about comedy in games,</itunes:subtitle>
+            <itunes:summary>Jeff is back to talk about his own game this time, Mission: Accomplished! It’s about super spies, office meetings, and really coming face to face with the arcane horror that is your day job. We talk about comedy in games, designing around secret information, and the impact of having winners and losers in an RPG....</itunes:summary>
+            <itunes:author>The One Shot Podcast</itunes:author>
+            <itunes:duration>52:33</itunes:duration>
+        </item>
+        <item>
+            <title>Sky Jacks: Episode 2</title>
+            <link>http://oneshotpodcast.com/campaign/sky-jacks-episode-2/</link>
+            <comments>http://oneshotpodcast.com/campaign/sky-jacks-episode-2/#respond</comments>
+            <pubDate>Wed, 17 Oct 2018 08:05:13 +0000</pubDate>
+            <dc:creator><![CDATA[James D'Amato]]></dc:creator>
+            <category><![CDATA[Campaign]]></category>
+            <category><![CDATA[Podcasts]]></category>
+            <category><![CDATA[Skyjacks]]></category>
+            <category><![CDATA[James D'Amato]]></category>
+            <category><![CDATA[John Patrick Coan]]></category>
+            <category><![CDATA[Johnny O'Mara]]></category>
+            <category><![CDATA[Liz Anderson]]></category>
+            <category><![CDATA[Sky Jacks]]></category>
+            <category><![CDATA[Tyler Davis]]></category>
+
+            <guid isPermaLink="false">http://oneshotpodcast.com/?p=3805</guid>
+            <description><![CDATA[<p>The crew negotiates with Sonja. They have to smooth over the captain&#8217;s romantic transgressions and secure work for themselves all without letting everyone know he&#8217;s dead. What they don&#8217;t know is that working with Sonja might get them killed too. MUSIC Arne Parrott &#8220;Division&#8221; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 http://creativecommons.org/licenses/by/3.0/...</p>
+<p>The post <a rel="nofollow" href="http://oneshotpodcast.com/campaign/sky-jacks-episode-2/">Sky Jacks: Episode 2</a> appeared first on <a rel="nofollow" href="http://oneshotpodcast.com">The One Shot Podcast</a>.</p>
+]]>            </description>
+            <wfw:commentRss>http://oneshotpodcast.com/campaign/sky-jacks-episode-2/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <enclosure url="https://media.blubrry.com/one_shot_collection/audio.simplecast.com/f8e94863.mp3" length="30953397" type="audio/mpeg" />
+            <itunes:subtitle>The crew negotiates with Sonja. They have to smooth over the captain’s romantic transgressions and secure work for themselves all without letting everyone know he’s dead. What they don’t know is that working with Sonja might get them killed too.</itunes:subtitle>
+            <itunes:summary>The crew negotiates with Sonja. They have to smooth over the captain’s romantic transgressions and secure work for themselves all without letting everyone know he’s dead. What they don’t know is that working with Sonja might get them killed too. MUSIC Arne Parrott “Division” Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0 http://creativecommons.org/licenses/by/3.0/...</itunes:summary>
+            <itunes:author>The One Shot Podcast</itunes:author>
+            <itunes:duration>42:44</itunes:duration>
+        </item>
+        <item>
+            <title>Sky Jacks: Episode 1</title>
+            <link>http://oneshotpodcast.com/campaign/sky-jacks-episode-1/</link>
+            <comments>http://oneshotpodcast.com/campaign/sky-jacks-episode-1/#respond</comments>
+            <pubDate>Wed, 17 Oct 2018 08:01:00 +0000</pubDate>
+            <dc:creator><![CDATA[James D'Amato]]></dc:creator>
+            <category><![CDATA[Campaign]]></category>
+            <category><![CDATA[Podcasts]]></category>
+            <category><![CDATA[Skyjacks]]></category>
+            <category><![CDATA[James D'Amato]]></category>
+            <category><![CDATA[John Patrick Coan]]></category>
+            <category><![CDATA[Johnny O'Mara]]></category>
+            <category><![CDATA[Liz Anderson]]></category>
+            <category><![CDATA[Sky Jacks]]></category>
+            <category><![CDATA[Tyler Davis]]></category>
+
+            <guid isPermaLink="false">http://oneshotpodcast.com/?p=3800</guid>
+            <description><![CDATA[<p>Meet the crew of The Uhuru, a Sky Ship under the banner of the notorious captain Orimar Vale! His name is feared by Red Feather captains and privateers alike. However, Jonnit Kessler, Travis Matagot, Dref Wormwood, and Gable share a secret about him that no one else knows&#8230; MUSIC Arne Parrot INSPIRATION The Decemberists Illimat...</p>
+<p>The post <a rel="nofollow" href="http://oneshotpodcast.com/campaign/sky-jacks-episode-1/">Sky Jacks: Episode 1</a> appeared first on <a rel="nofollow" href="http://oneshotpodcast.com">The One Shot Podcast</a>.</p>
+]]>            </description>
+            <wfw:commentRss>http://oneshotpodcast.com/campaign/sky-jacks-episode-1/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <enclosure url="https://media.blubrry.com/one_shot_collection/audio.simplecast.com/d0d3ed56.mp3" length="45009969" type="audio/mpeg" />
+            <itunes:subtitle>Meet the crew of The Uhuru, a Sky Ship under the banner of the notorious captain Orimar Vale! His name is feared by Red Feather captains and privateers alike. However, Jonnit Kessler, Travis Matagot, Dref Wormwood,</itunes:subtitle>
+            <itunes:summary>Meet the crew of The Uhuru, a Sky Ship under the banner of the notorious captain Orimar Vale! His name is feared by Red Feather captains and privateers alike. However, Jonnit Kessler, Travis Matagot, Dref Wormwood, and Gable share a secret about him that no one else knows… MUSIC Arne Parrot INSPIRATION The Decemberists Illimat...</itunes:summary>
+            <itunes:author>The One Shot Podcast</itunes:author>
+            <itunes:duration>1:02:16</itunes:duration>
+        </item>
+        <item>
+            <title>Series 9.3 &#8211; Spire with Grant Howitt (Discussion)</title>
+            <link>http://oneshotpodcast.com/character-creation-cast/series-9-3-spire-with-grant-howitt-discussion/</link>
+            <comments>http://oneshotpodcast.com/character-creation-cast/series-9-3-spire-with-grant-howitt-discussion/#respond</comments>
+            <pubDate>Mon, 15 Oct 2018 10:00:45 +0000</pubDate>
+            <dc:creator><![CDATA[Character Creation Cast]]></dc:creator>
+            <category><![CDATA[Character Creation Cast]]></category>
+            <category><![CDATA[Podcasts]]></category>
+
+            <guid isPermaLink="false">http://oneshotpodcast.com/?p=3794</guid>
+            <description><![CDATA[<p>Welcome to the final episode in the 9th series! On today’s episode, we sit down with Grant Howitt, co-creator for Spire, to discuss how character creation went for this amazing game! Announcements: Strata Kickstarter: It&#8217;s here! https://www.kickstarter.com/projects/gshowitt/strata-a-spire-rpg-sourcebook AcadeCon: http://www.acadecon.com Discord: https://discord.charactercreationcast.com Character Creation Cast on Apple Podcasts (The best place to leave reviews for us)!...</p>
+<p>The post <a rel="nofollow" href="http://oneshotpodcast.com/character-creation-cast/series-9-3-spire-with-grant-howitt-discussion/">Series 9.3 &#8211; Spire with Grant Howitt (Discussion)</a> appeared first on <a rel="nofollow" href="http://oneshotpodcast.com">The One Shot Podcast</a>.</p>
+]]>            </description>
+            <wfw:commentRss>http://oneshotpodcast.com/character-creation-cast/series-9-3-spire-with-grant-howitt-discussion/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <enclosure url="https://media.blubrry.com/one_shot_collection/audio.simplecast.com/eb0a62f5.mp3" length="54713790" type="audio/mpeg" />
+            <itunes:subtitle>Welcome to the final episode in the 9th series! On today’s episode, we sit down with Grant Howitt, co-creator for Spire, to discuss how character creation went for this amazing game! Announcements: Strata Kickstarter: It’s here! https://www.</itunes:subtitle>
+            <itunes:summary>Welcome to the final episode in the 9th series! On today’s episode, we sit down with Grant Howitt, co-creator for Spire, to discuss how character creation went for this amazing game! Announcements: Strata Kickstarter: It’s here! https://www.kickstarter.com/projects/gshowitt/strata-a-spire-rpg-sourcebook AcadeCon: http://www.acadecon.com Discord: https://discord.charactercreationcast.com Character Creation Cast on Apple Podcasts (The best place to leave reviews for us)!...</itunes:summary>
+            <itunes:author>The One Shot Podcast</itunes:author>
+            <itunes:duration>56:53</itunes:duration>
+        </item>
+        <item>
+            <title>275. Kids on Bikes Part 3</title>
+            <link>http://oneshotpodcast.com/one-shot/275-kids-on-bikes-part-3/</link>
+            <comments>http://oneshotpodcast.com/one-shot/275-kids-on-bikes-part-3/#respond</comments>
+            <pubDate>Mon, 15 Oct 2018 09:48:12 +0000</pubDate>
+            <dc:creator><![CDATA[James D'Amato]]></dc:creator>
+            <category><![CDATA[One Shot]]></category>
+            <category><![CDATA[Podcasts]]></category>
+
+            <guid isPermaLink="false">http://oneshotpodcast.com/?p=3796</guid>
+            <description><![CDATA[<p>Mr. Bailey shows the kids Mad Science. THE CALL of CTHULHU MYSTERY PROGRAM Link KIDS ON BIKES Buy it! Site BUY MY BOOK! Amazon Pre-Order Barnes and Noble Pre-Order TWITCH SCHEDULE Youtube Archive TAKE ACTION Register to Vote Find your Senators Find your Congressmen Make 5 Calls Trans Lifeline Trevor Project</p>
+<p>The post <a rel="nofollow" href="http://oneshotpodcast.com/one-shot/275-kids-on-bikes-part-3/">275. Kids on Bikes Part 3</a> appeared first on <a rel="nofollow" href="http://oneshotpodcast.com">The One Shot Podcast</a>.</p>
+]]>            </description>
+            <wfw:commentRss>http://oneshotpodcast.com/one-shot/275-kids-on-bikes-part-3/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <enclosure url="https://media.blubrry.com/one_shot_collection/audio.simplecast.com/be70421f.mp3" length="42975550" type="audio/mpeg" />
+            <itunes:subtitle>Mr. Bailey shows the kids Mad Science. THE CALL of CTHULHU MYSTERY PROGRAM Link KIDS ON BIKES Buy it! Site BUY MY BOOK! Amazon Pre-Order Barnes and Noble Pre-Order TWITCH SCHEDULE Youtube Archive TAKE ACTION Register to Vote Find your Senators Find you...</itunes:subtitle>
+            <itunes:summary>Mr. Bailey shows the kids Mad Science. THE CALL of CTHULHU MYSTERY PROGRAM Link KIDS ON BIKES Buy it! Site BUY MY BOOK! Amazon Pre-Order Barnes and Noble Pre-Order TWITCH SCHEDULE Youtube Archive TAKE ACTION Register to Vote Find your Senators Find your Congressmen Make 5 Calls Trans Lifeline Trevor Project</itunes:summary>
+            <itunes:author>The One Shot Podcast</itunes:author>
+            <itunes:duration>59:36</itunes:duration>
+        </item>
+        <item>
+            <title>69. Jeff Stormer</title>
+            <link>http://oneshotpodcast.com/backstory/69-jeff-stormer/</link>
+            <comments>http://oneshotpodcast.com/backstory/69-jeff-stormer/#comments</comments>
+            <pubDate>Thu, 11 Oct 2018 09:00:30 +0000</pubDate>
+            <dc:creator><![CDATA[Alex Roberts]]></dc:creator>
+            <category><![CDATA[Backstory]]></category>
+            <category><![CDATA[Podcasts]]></category>
+
+            <guid isPermaLink="false">http://oneshotpodcast.com/?p=3776</guid>
+            <description><![CDATA[<p>Podcaster and Unofficial Larpwright of the Olive Garden chain of restaurants Jeff Stormer joins us for a nice chat about professional wrestling, karaoke, and other roleplaying games. Jeff&#8217;s Website When You&#8217;re Here, You&#8217;re Family Alex&#8217;s Guest Spot on the Party of One Podcast Big Bad Con 2018</p>
+<p>The post <a rel="nofollow" href="http://oneshotpodcast.com/backstory/69-jeff-stormer/">69. Jeff Stormer</a> appeared first on <a rel="nofollow" href="http://oneshotpodcast.com">The One Shot Podcast</a>.</p>
+]]>            </description>
+            <wfw:commentRss>http://oneshotpodcast.com/backstory/69-jeff-stormer/feed/</wfw:commentRss>
+            <slash:comments>1</slash:comments>
+            <enclosure url="https://media.blubrry.com/one_shot_collection/audio.simplecast.com/3aabfded.mp3" length="56168901" type="audio/mpeg" />
+            <itunes:subtitle>Podcaster and Unofficial Larpwright of the Olive Garden chain of restaurants Jeff Stormer joins us for a nice chat about professional wrestling, karaoke, and other roleplaying games. Jeff’s Website When You’re Here,</itunes:subtitle>
+            <itunes:summary>Podcaster and Unofficial Larpwright of the Olive Garden chain of restaurants Jeff Stormer joins us for a nice chat about professional wrestling, karaoke, and other roleplaying games. Jeff’s Website When You’re Here, You’re Family Alex’s Guest Spot on the Party of One Podcast Big Bad Con 2018</itunes:summary>
+            <itunes:author>The One Shot Podcast</itunes:author>
+            <itunes:duration>58:30</itunes:duration>
+        </item>
+    </channel>
+</rss>
